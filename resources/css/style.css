@@ -31,4 +31,20 @@ article{
 img[src*='camp']{
 	display: block;
 	margin: auto;
+
+}
+img[src*='phone']{
+	display: block;
+	margin: auto;
+}
+.soon{
+	text-align:center ;
+	font-family: Verdana;
+	font-size: 40px;
+	color: white;
+	font-weight: normal;
+}
+footer{
+	color: Gray;
+	text-align: right;
 }
